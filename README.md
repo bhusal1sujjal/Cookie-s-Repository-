@@ -1,6 +1,6 @@
 <h1 align="center">Hey, It's me 𝗦𝘂𝗷𝗷𝗮𝗹 𝗕𝗵𝘂𝘀𝗮𝗹 𝗮𝗸𝗮 𝗖𝗼𝗼𝗸𝗶𝗲</h1>
 <h3 align="center">𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐂 𝐥𝐞𝐯𝐞𝐥 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 |</h3>
-<img align="center" alt="mee" width="100%" src="https://drive.google.com/file/d/1FuI9JvaUiozOKpG0lL-GcAhWAFZHA7od/view?usp=drivesdk">
+
 
 - I have worked on my first project via. [𝗔𝗹𝗽𝗵𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝗶𝗹𝗲](https://butwalwaterworldandfilterhouse.netlify.app)
 
